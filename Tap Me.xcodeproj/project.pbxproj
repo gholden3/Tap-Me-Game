@@ -21,6 +21,24 @@
 		91987B861C2DE547009BBC8F /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 91987B681C2DE547009BBC8F /* UIKit.framework */; };
 		91987B8E1C2DE547009BBC8F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 91987B8C1C2DE547009BBC8F /* InfoPlist.strings */; };
 		91987B901C2DE547009BBC8F /* Tap_MeTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 91987B8F1C2DE547009BBC8F /* Tap_MeTests.m */; };
+		91AD01F31C2F474600964969 /* bg_tile.png in Resources */ = {isa = PBXBuildFile; fileRef = 91AD01E21C2F474600964969 /* bg_tile.png */; };
+		91AD01F41C2F474600964969 /* bg_tile@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 91AD01E31C2F474600964969 /* bg_tile@2x.png */; };
+		91AD01F51C2F474600964969 /* button_tap_deselected.png in Resources */ = {isa = PBXBuildFile; fileRef = 91AD01E41C2F474600964969 /* button_tap_deselected.png */; };
+		91AD01F61C2F474600964969 /* button_tap_deselected@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 91AD01E51C2F474600964969 /* button_tap_deselected@2x.png */; };
+		91AD01F71C2F474600964969 /* button_tap_selected.png in Resources */ = {isa = PBXBuildFile; fileRef = 91AD01E61C2F474600964969 /* button_tap_selected.png */; };
+		91AD01F81C2F474600964969 /* button_tap_selected@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 91AD01E71C2F474600964969 /* button_tap_selected@2x.png */; };
+		91AD01F91C2F474600964969 /* ButtonTap.wav in Resources */ = {isa = PBXBuildFile; fileRef = 91AD01E81C2F474600964969 /* ButtonTap.wav */; };
+		91AD01FA1C2F474600964969 /* checker_bottom.png in Resources */ = {isa = PBXBuildFile; fileRef = 91AD01E91C2F474600964969 /* checker_bottom.png */; };
+		91AD01FB1C2F474600964969 /* checker_bottom@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 91AD01EA1C2F474600964969 /* checker_bottom@2x.png */; };
+		91AD01FC1C2F474600964969 /* checker_top.png in Resources */ = {isa = PBXBuildFile; fileRef = 91AD01EB1C2F474600964969 /* checker_top.png */; };
+		91AD01FD1C2F474600964969 /* checker_top@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 91AD01EC1C2F474600964969 /* checker_top@2x.png */; };
+		91AD01FE1C2F474600964969 /* field_score.png in Resources */ = {isa = PBXBuildFile; fileRef = 91AD01ED1C2F474600964969 /* field_score.png */; };
+		91AD01FF1C2F474600964969 /* field_score@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 91AD01EE1C2F474600964969 /* field_score@2x.png */; };
+		91AD02001C2F474600964969 /* field_time.png in Resources */ = {isa = PBXBuildFile; fileRef = 91AD01EF1C2F474600964969 /* field_time.png */; };
+		91AD02011C2F474600964969 /* field_time@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 91AD01F01C2F474600964969 /* field_time@2x.png */; };
+		91AD02021C2F474600964969 /* HallOfTheMountainKing.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 91AD01F11C2F474600964969 /* HallOfTheMountainKing.mp3 */; };
+		91AD02031C2F474600964969 /* SecondBeep.wav in Resources */ = {isa = PBXBuildFile; fileRef = 91AD01F21C2F474600964969 /* SecondBeep.wav */; };
+		91AD02051C2F501D00964969 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 91AD02041C2F501D00964969 /* AVFoundation.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +71,24 @@
 		91987B8B1C2DE547009BBC8F /* Tap MeTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Tap MeTests-Info.plist"; sourceTree = "<group>"; };
 		91987B8D1C2DE547009BBC8F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		91987B8F1C2DE547009BBC8F /* Tap_MeTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Tap_MeTests.m; sourceTree = "<group>"; };
+		91AD01E21C2F474600964969 /* bg_tile.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bg_tile.png; sourceTree = "<group>"; };
+		91AD01E31C2F474600964969 /* bg_tile@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bg_tile@2x.png"; sourceTree = "<group>"; };
+		91AD01E41C2F474600964969 /* button_tap_deselected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button_tap_deselected.png; sourceTree = "<group>"; };
+		91AD01E51C2F474600964969 /* button_tap_deselected@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "button_tap_deselected@2x.png"; sourceTree = "<group>"; };
+		91AD01E61C2F474600964969 /* button_tap_selected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button_tap_selected.png; sourceTree = "<group>"; };
+		91AD01E71C2F474600964969 /* button_tap_selected@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "button_tap_selected@2x.png"; sourceTree = "<group>"; };
+		91AD01E81C2F474600964969 /* ButtonTap.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = ButtonTap.wav; sourceTree = "<group>"; };
+		91AD01E91C2F474600964969 /* checker_bottom.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = checker_bottom.png; sourceTree = "<group>"; };
+		91AD01EA1C2F474600964969 /* checker_bottom@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "checker_bottom@2x.png"; sourceTree = "<group>"; };
+		91AD01EB1C2F474600964969 /* checker_top.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = checker_top.png; sourceTree = "<group>"; };
+		91AD01EC1C2F474600964969 /* checker_top@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "checker_top@2x.png"; sourceTree = "<group>"; };
+		91AD01ED1C2F474600964969 /* field_score.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = field_score.png; sourceTree = "<group>"; };
+		91AD01EE1C2F474600964969 /* field_score@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "field_score@2x.png"; sourceTree = "<group>"; };
+		91AD01EF1C2F474600964969 /* field_time.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = field_time.png; sourceTree = "<group>"; };
+		91AD01F01C2F474600964969 /* field_time@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "field_time@2x.png"; sourceTree = "<group>"; };
+		91AD01F11C2F474600964969 /* HallOfTheMountainKing.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = HallOfTheMountainKing.mp3; sourceTree = "<group>"; };
+		91AD01F21C2F474600964969 /* SecondBeep.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SecondBeep.wav; sourceTree = "<group>"; };
+		91AD02041C2F501D00964969 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +96,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				91AD02051C2F501D00964969 /* AVFoundation.framework in Frameworks */,
 				91987B671C2DE547009BBC8F /* CoreGraphics.framework in Frameworks */,
 				91987B691C2DE547009BBC8F /* UIKit.framework in Frameworks */,
 				91987B651C2DE547009BBC8F /* Foundation.framework in Frameworks */,
@@ -101,6 +138,7 @@
 		91987B631C2DE546009BBC8F /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				91AD02041C2F501D00964969 /* AVFoundation.framework */,
 				91987B641C2DE546009BBC8F /* Foundation.framework */,
 				91987B661C2DE547009BBC8F /* CoreGraphics.framework */,
 				91987B681C2DE547009BBC8F /* UIKit.framework */,
@@ -126,6 +164,23 @@
 		91987B6B1C2DE547009BBC8F /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				91AD01E21C2F474600964969 /* bg_tile.png */,
+				91AD01E31C2F474600964969 /* bg_tile@2x.png */,
+				91AD01E41C2F474600964969 /* button_tap_deselected.png */,
+				91AD01E51C2F474600964969 /* button_tap_deselected@2x.png */,
+				91AD01E61C2F474600964969 /* button_tap_selected.png */,
+				91AD01E71C2F474600964969 /* button_tap_selected@2x.png */,
+				91AD01E81C2F474600964969 /* ButtonTap.wav */,
+				91AD01E91C2F474600964969 /* checker_bottom.png */,
+				91AD01EA1C2F474600964969 /* checker_bottom@2x.png */,
+				91AD01EB1C2F474600964969 /* checker_top.png */,
+				91AD01EC1C2F474600964969 /* checker_top@2x.png */,
+				91AD01ED1C2F474600964969 /* field_score.png */,
+				91AD01EE1C2F474600964969 /* field_score@2x.png */,
+				91AD01EF1C2F474600964969 /* field_time.png */,
+				91AD01F01C2F474600964969 /* field_time@2x.png */,
+				91AD01F11C2F474600964969 /* HallOfTheMountainKing.mp3 */,
+				91AD01F21C2F474600964969 /* SecondBeep.wav */,
 				91987B6C1C2DE547009BBC8F /* Tap Me-Info.plist */,
 				91987B6D1C2DE547009BBC8F /* InfoPlist.strings */,
 				91987B701C2DE547009BBC8F /* main.m */,
@@ -228,9 +283,26 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				91AD01F31C2F474600964969 /* bg_tile.png in Resources */,
 				91987B7D1C2DE547009BBC8F /* Images.xcassets in Resources */,
+				91AD02011C2F474600964969 /* field_time@2x.png in Resources */,
+				91AD01F71C2F474600964969 /* button_tap_selected.png in Resources */,
 				91987B6F1C2DE547009BBC8F /* InfoPlist.strings in Resources */,
+				91AD01F81C2F474600964969 /* button_tap_selected@2x.png in Resources */,
+				91AD02031C2F474600964969 /* SecondBeep.wav in Resources */,
+				91AD01F51C2F474600964969 /* button_tap_deselected.png in Resources */,
+				91AD01FD1C2F474600964969 /* checker_top@2x.png in Resources */,
 				91987B781C2DE547009BBC8F /* Main.storyboard in Resources */,
+				91AD01FA1C2F474600964969 /* checker_bottom.png in Resources */,
+				91AD01FC1C2F474600964969 /* checker_top.png in Resources */,
+				91AD01F61C2F474600964969 /* button_tap_deselected@2x.png in Resources */,
+				91AD01FE1C2F474600964969 /* field_score.png in Resources */,
+				91AD02001C2F474600964969 /* field_time.png in Resources */,
+				91AD01F91C2F474600964969 /* ButtonTap.wav in Resources */,
+				91AD01F41C2F474600964969 /* bg_tile@2x.png in Resources */,
+				91AD01FF1C2F474600964969 /* field_score@2x.png in Resources */,
+				91AD01FB1C2F474600964969 /* checker_bottom@2x.png in Resources */,
+				91AD02021C2F474600964969 /* HallOfTheMountainKing.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -456,6 +528,7 @@
 				91987B951C2DE547009BBC8F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		91987B961C2DE547009BBC8F /* Build configuration list for PBXNativeTarget "Tap MeTests" */ = {
 			isa = XCConfigurationList;
@@ -464,6 +537,7 @@
 				91987B981C2DE547009BBC8F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
